@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in Coding, Sports and travelling
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on coll projects as a beginner
+- 💞️ I’m looking to collaborate on cool projects as a beginner
 - 📫 How to reach me -
 
 <!---
